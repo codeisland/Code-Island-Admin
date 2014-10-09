@@ -1,0 +1,24 @@
+Code Island Sends Open Data Questionnaire to Providence Mayoral Candidates
+
+October 8, 2014, Providence, RI -- Code Island, Rhode Island’s newly established Code for America brigade, has asked the three major candidates vying to be mayor of Providence to define their positions on issues of open data and open government. The civic technology group sent the candidates a questionnaire asking five specific questions about how each would act to make government data available to the public.
+
+“Open data may sound a little nerdy, but the government’s policy on it has an enormous impact on regular people,” said Ryan Kelly, one of Code Island’s co-captains. “From budgets and spending to building codes and crime, direct access to current data is the only way to provide the level of transparency that people from all political viewpoints agree is essential to good government.” 
+
+According to Code Island’s Community Organizer Shawn Selleck, who is also a civic innovation consultant to the city of Providence, Code Island chose to limit the questionnaire to Providence mayoral candidates because the city lags behind its peers in access to open data. “The Open Providence Commission and the open data portal that it helped create are a major advancement on this front,” Selleck said. “But RI Public Interest Research Group still rates the city a D+. That’s how far behind we are.”
+
+As candidates respond, Code Island will post the responses on their website. Regardless of the responses, the organization will not endorse any particular candidate.
+
+“If you need an example of how powerful access to open data can be,” added David Johnson, Code Island’s other co-captain, “just look at what RIPTA has done. By opening access to their live GPS data, they’ve made an existing smartphone application instantly useful to every Rhode Islander. RIPTA invested a relatively small amount of time to provide access to their data. Everything else was already created, so the cost to taxpayers was basically zero.”
+
+The questionnaire is available to the public at:
+http://codeisland.github.io/candidate-questionnaire/survey-questions.html
+
+###
+
+About Code Island—Code Island is Rhode Island’s Code for America brigade, established in January, 2014. Code Island seeks to help Rhode Island constituencies gain better access to state and municipal governments. It also seeks to help state and municipal governments improve the technology-based services they provide to their constituencies. Like all Code for America brigades, Code Island is a volunteer organization. Code Island provides high-level technical expertise to government agencies free of charge as a service to the general public.
+
+www.code-island.org
+
+About Code for America—Code for America is working towards a government by the people, for the people, that works in the 21st century. It is a 501 (c) 3 non-profit that helps residents and governments harness technology to solve community problems. It encourages and empowers residents to take active roles in their communities; facilitates collaboration between government staff and fosters forward-thinking approaches to solving problems; and supports civic-minded entrepreneurs and startups. 
+
+www.codeforamerica.org
