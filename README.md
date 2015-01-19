@@ -1,7 +1,7 @@
-Code-Island-Docs
+Code-Island-Admin
 ================
 
-Basic Code Island documents and shared resources
+A repository of all Code Island administrative documents and discussions. 
 
 Code Island Strategic Plan
 
